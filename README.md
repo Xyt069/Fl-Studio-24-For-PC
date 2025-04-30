@@ -1,4 +1,4 @@
-# 🎶 FL Studio 24 Repository   
+# 🎶 FL Studio 24 Repository    
 Welcome to the FL Studio 24 repository! 🚀 This is your ultimate destination for accessing the powerful features of FL Studio, a leading digital audio workstation designed for music production. Whether you're a budding musician or an experienced producer, FL Studio offers an array of tools to elevate your music-making experience.  
 
 ## 📁 Repository Overview  
